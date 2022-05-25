@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="speksifikas_app">Android support version 20+</string>
+    <string name="deskripsi_app">Kamus ini dibuat untuk menerjemahkan kata dalam bahasa banggai ke bahasa indonesia</string>
+    <string name="tab1">Banggai - Indonesia</string>
+    <string name="tab2">Indonesia - Banggai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
